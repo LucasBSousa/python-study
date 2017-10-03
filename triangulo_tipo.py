@@ -1,5 +1,3 @@
-from maior import maior
-
 def triangulo(x,y,z):
     x = int(x)
     y = int(y)
