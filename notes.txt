@@ -9,3 +9,6 @@ Python:
     - É orientada a objetos (mais do que java);
     - É extesível;
     - É open source
+
+
+- The Zen of Python: >>>import this
