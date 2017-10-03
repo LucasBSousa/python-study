@@ -1,0 +1,11 @@
+Python:
+    - É uma linguagem interpretada (roda em VM);
+        - O restulado de um comando é apresentado logo após sua digitação;
+        - O usuário pode "ver" o resultado de sua criação imediatamente;
+        - Possui alta portabilidade de código;
+        - Exemplos:
+            
+    - Possui tipagem automática;
+    - É orientada a objetos (mais do que java);
+    - É extesível;
+    - É open source
