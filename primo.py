@@ -6,7 +6,3 @@ def primo(x):
             if (x % d) == 0:
                 return False
         return True
-
-for x in range(1,30):
-    if primo(x) == True:
-        print(x)
